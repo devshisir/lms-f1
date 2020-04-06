@@ -1,0 +1,2565 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+   
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+    /*-- gallery popup slider --*/
+    #galleryPopup .galleryPopupSlider .galleryPopupSliderItem {
+        height: 400px;
+    }
+    /*-- classromm popup 1 --*/
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem {
+        padding: 103px 18px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: 203px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #recordVideobtnACtion {
+        background: #000;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain {
+        margin-top: 30px;
+        padding: 0px 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem {
+        padding: 26px 40px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: 215px;
+    }
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*-- responsive part for class plan page --*/
+    #paginationMain .paginationMainContainer{
+        text-align: center;
+    }
+    #paginationMain .paginationMainContainer ul li {
+        height: 12px;
+        width: 12px;
+        margin-right: -2px;
+    }
+    #headerTop .headerTopUser {
+        left: -20px;
+    }
+    #paginationMain .paginationMainContainer .magnify {
+        top: 5px;
+    }
+    span.magnify img {
+        height: 49px;
+    }
+    #paginationMain {
+        overflow-x: hidden;
+    }
+    #paginationMain .paginationMainContainer ul li .paginationHover {
+        top: -28px;
+    }
+    /*-- start project details page responsive --*/
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 {
+        font-size: 12px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 {
+        font-size: 16px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 span {
+        font-size: 14px;
+    }
+    #project_details .project_details_top {
+        padding-left: 43px;
+    }
+    #project_details .project_details_top>a {
+        left: 0px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu {
+        left: -56px !important;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu {
+        left: -56px !important;
+    }
+    /*-- start gallery page responsive --*/
+    #galleryMain .galleryMainItem .galleryMainItemContent h4 {
+        font-size: 12px;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent p {
+        margin-top: 0px;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent .galleryMainItemContent_reting p {
+        padding-left: 10px;
+        padding-right: 6px;
+    }
+    /*-- start classroom page responsive --*/
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemRight .dropdown .dropdown-menu {
+        left: -70px !important;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopRight .dropdown .dropdown-menu {
+        left: -70px !important;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider {
+        padding: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem h4 {
+        font-size: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .sliderCount {
+        bottom: -51px;
+        right: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: 199px;
+    }
+    div#my_camera {
+        display: none;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop #gum {
+        height: 100% !important;
+        width: 100% !important;
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a {
+        padding: 20px 1px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a p {
+        font-size: 11px;
+        margin-top: 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer h4#SnapShotResult2 img {
+        width: 100px;
+        height: 83px;
+        margin-bottom: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer h4#SnapShotResult2 {
+        font-size: 13px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer h4#SnapShotResult3 img {
+        width: 100px;
+        height: 83px;
+        margin-bottom: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain {
+        margin-top: 30px;
+        padding: 0px 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn a {
+        padding: 10px 44px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn {
+        bottom: 59px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem {
+        padding: 40px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestion ol li {
+        width: 100%;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer input {
+        width: 92%;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer2 ul li .answeritem {
+        width: 81%;
+        padding: 8px 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: 208px;
+    }
+    #task3Popup .task3PopupMian .task3Left {
+        overflow-y: hidden;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        font-size: 9px;
+        top: 61%;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 11px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_preview .ff_fileupload_preview_image {
+        width: 50px;
+        height: 50px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        font-size: 9px;
+        top: 61%;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_preview .ff_fileupload_preview_image {
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #headerTop .headerTopUser {
+        width: 98%;
+    }
+    /*-- start class plan page responsive */
+    #paginationMain .paginationMainContainer ul li .paginationHover {
+        left: -133px;
+    }
+    #paginationMain .paginationMainContainer{
+        text-align: center;
+        padding: 5px 0px;
+    }
+    #paginationMain .paginationMainContainer ul li {
+        height: 9px;
+        width: 9px;
+        margin-right: -2px;
+    }
+    .magnify{
+        display: none;
+    }
+    #paginationMain {
+        padding: 20px 0px;
+    }
+    #classPlanMain {
+        padding: 0px 0px 20px 0px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem h1 {
+        font-size: 12px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem p {
+        font-size: 12px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser {
+        padding-left: 22px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser .classPlanMainItemBottomUserContent h5 {
+        font-size: 13px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser .classPlanMainItemBottomUserContent p {
+        margin-bottom: 2px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomContent1 h5 {
+        font-size: 13px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomContent1 p {
+        margin-bottom: 2px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomLink a.comon {
+        font-size: 11px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomContent1 h4 {
+        font-size: 11px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomLink a.comon2 {
+        font-size: 10px;
+        padding: 10px 26px;
+    }
+    /*-- start profile page responsive --*/
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right {
+        right: 0px;
+    }
+    .pl15{
+        padding-left: 15px !important;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightTop h3 {
+        font-size: 21px;
+        margin-bottom: 20px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightItem h4 {
+        font-size: 13px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightItem h4 img {
+        margin-right: 0px;
+        display: block;
+        margin-bottom: 8px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left form {
+        padding-right: 0px;
+    }
+    .badge_item.text-center img {
+        height: 38px;
+    }
+    #profileMain .profileBottom .profileBottomRight .profileDisipline .profileDisiplineright .profileDisiplinerightItem ul li {
+        padding: 6px 0px;
+        width: 22%;
+    }
+    /*-- start project page responsive --*/
+    #project_main .project_main_item {
+        padding: 22px 0px 0px 0px;
+    }
+    .project_main_item_5 img{
+        margin-bottom: 0px !important;
+    }
+    .project_main_item_6 img{
+        margin-bottom: 0px !important;
+    }
+    /*-- start project details responsive */
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 {
+        font-size: 10px;
+    }
+    #project_details .project_details_top {
+        padding-left: 40px;
+    }
+    li.open_viemo img {
+        height: 30px;
+    }
+    li.pause_viemo img {
+        height: 30px;
+    }
+    li.info_show img {
+        height: 30px;
+    }
+    li.info_hide img {
+        height: 30px;
+    }
+     
+    #project_details .project_details_top ul li a {
+        font-size: 15px;
+    }
+    #project_details .project_details_top ul li {
+        margin-right: 4px;
+    }
+    #project_details .project_details_top>a {
+        left: 0px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 span {
+        font-size: 12px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 {
+        font-size: 14px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 span {
+        margin-right: 4px;
+        font-size: 13px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item {
+        margin-bottom: 0px;
+        padding: 0px 0px;
+        padding: 20px 0px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding: 20px 0px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_info ul li {
+        margin: 0px 3px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-toggle {
+        position: relative;
+        left: 9px;
+    }
+    #project_details .project_details_main_container .project_details_main_item {
+        margin-bottom: 30px;
+    }
+    #project_details .project_details_main_container {
+        margin-top: 0px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu {
+        left: -63px !important;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu {
+        left: -80px !important;
+    }
+    /*-- start gallery page responsive --*/
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-prev {
+        left: -43px;
+    }
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-next {
+        right: -43px;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent h4 {
+        font-size: 14px;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent p {
+        margin-top: 0px;
+    }
+    /*-- start classroom area responsive --*/
+    #classRoomTop .classRoomTopContent h3 {
+        margin-top: 5px;
+        font-size: 17px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 span {
+        font-size: 10px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 {
+        font-size: 10px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 img {
+        margin-right: 5px;
+        height: 42px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 img {
+        margin-right: 5px;
+        height: 42px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem {
+        padding: 10px 0px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop {
+        padding-bottom: 12px;
+    }
+    #classRoomTop .classRoomTopContent h4 {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    button#dropdownMenu2 img {
+        height: 15px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopRight .dropdown .dropdown-menu {
+        left: -65px !important;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemRight .dropdown .dropdown-menu {
+        left: -65px !important;
+    }
+    #classRoomMain {
+        padding-bottom: 0px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 {
+        font-size: 15px;
+    }
+    #chatBox {
+        bottom: 16px;
+    }
+    #chatBox .chatBoxMain {
+        top: -402px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem {
+        padding: 20px 15px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem h4 {
+        font-size: 16px;
+        padding-top: 150px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-next {
+        right: -31px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-prev {
+        left: -31px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .sliderCount {
+        bottom: 15px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup {
+        padding: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintBoxPopupTop h4 {
+        font-size: 16px;
+        padding-left: 23px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        width: 100%;
+        height: 100%;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body {
+        padding-bottom: 28px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer .videoPostar .hintsvideoPlay img {
+        height: 50px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop #my_camera {
+        display: none;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop #gum {
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer h4#SnapShotResult2 img {
+        height: 100px;
+        width: 100px;
+        margin-bottom: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a {
+        padding: 15px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a p {
+        font-family: fbold;
+        font-size: 11px;
+        color: #000000;
+        margin-top: 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison {
+        padding: 13px 15px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison p {
+        font-family: fbold;
+        font-size: 10px;
+        color: #000000;
+        margin-top: 1px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer {
+        text-align: center;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer h4#SnapShotResult3 img {
+        margin-bottom: 15px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer p {
+        margin-top: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #recordVideobtnACtion {
+        height: 30%;
+        background: #000;
+    }
+    button#previewVideo img {
+        height: 39px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop .previewVideoPlay #previewVideo h4 {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop .previewVideoPlay {
+        top: 46%;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 9px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        top: 60%;
+        font-size: 8px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_preview .ff_fileupload_preview_image {
+        width: 30px;
+        height: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads {
+        width: 93%;
+        top: 68px;
+        background: transparent;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem {
+        padding: 0px;
+        min-height: 75vh;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain h3 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain {
+        margin-top: 50px;
+        padding: 0px 26px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem {
+        padding: 20px 40px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestion ol li {
+        font-size: 13px;
+        width: 100%;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer input {
+        width: 100%;
+        padding: 9px 20px;
+        font-size: 14px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer2 ul li .answeritem {
+        width: 84%;
+        padding: 7px 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo {
+        padding: 20px 20px;
+    }
+    .task3LeftvideoPostar img {
+        height: 100%;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a {
+        padding: 11px 0px;
+        width: 98px;
+        margin: 0px 5px;
+        font-size: 9px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a img {
+        height: 28px;
+    }
+    #task3Popup .task3PopupMian .task3Right .task3RightMainbtn button {
+        padding: 11px 32px;
+        margin: 0px 3px;
+        width: 138px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 10px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        font-size: 8px;
+        top: 61%;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_preview .ff_fileupload_preview_image {
+        width: 40px;
+        height: 40px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap table.ff_fileupload_uploads {
+        width: 85%;
+        top: 53px;
+        background: transparent;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem {
+        padding: 20px;
+        padding-bottom: 80px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem p {
+        font-size: 12px;
+        margin-bottom: 16px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-prev {
+        left: -16px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-next {
+        right: -16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #headerTop{
+        display: none;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    #mobileHeaderMenu{
+        display: block;
+    }
+    #mobileHeader .mobileHeaderProfile {
+        width: auto;
+    }
+    #mobileHeaderMenu .mobileHeaderMenuContent {
+        margin-top: 0px;
+        width: 100%;
+        text-align: left;
+    }
+    #mobileHeaderMenu .mobileHeaderMenuContent ul li a {
+        padding-bottom: 5px;
+    }
+    #mobileHeaderMenu .mobileHeaderMenuContent ul li {
+        display: inline-block;
+        width: 31%;
+        text-align: center;
+    }
+    #mobileHeaderMenu .mobileHeaderMenuContent ul li.active a:after {
+        height: 3px;
+        width: 20%;
+    }
+    .tdnone{
+        display: none;
+    }
+    #galleryFilter {
+        padding: 20px;
+    }
+    #galleryFilter .galleryFilterSearch input {
+        font-size: 12px;
+        padding: 12px 10px;
+    }
+    .galleryMainItemImage img{
+        height: 100%;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent h4 {
+        font-size: 13px;
+    }
+    #galleryMain .galleryMainItem .galleryMainItemContent p {
+        font-size: 9px;
+        padding-left: 30px;
+        margin-top: 0px;
+    }
+    #galleryPopup {
+        background: #00000073;
+        z-index: 999999999999;
+    }
+    .galleryPopUpClose{
+        display: none;
+    }
+    .galleypopUpMobileClose {
+        display: block;
+        top: 0px;
+        right: 20px;
+        color: #232323;
+        background: #fff;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        line-height: 30px;
+        font-size: 16px;
+        border-radius: 4px;
+        z-index: 999999999999999;
+    }
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-prev {
+        left: 15px;
+    }
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-next {
+        right: 15px;
+    }
+    #profileMain {
+        padding: 20px 0px;
+    }
+    #MobileLinkProfile {
+        display: inline-block;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left {
+        text-align: center;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left .profileShape {
+        left: 163px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left form {
+        padding-right: 173px;
+    }
+    .pl15{
+        padding-left: 15px !important;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right {
+        right: 0px;
+        margin-top: 31px;
+        text-align: center;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightTop h3 {
+        font-size: 20px;
+    }
+    .profileTopInfo_rightItem {
+        min-height: 50px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right:after {
+        display: none;
+    }
+    #profileMain .profileBottom {
+        margin-top: 20px;
+    }
+    .profileDisipline{
+        display: none;
+    }
+    .profileDisiplineMobile{
+        display: block;
+    }
+    .mpr15{
+        padding-right: 15px !important;
+    }
+    #paginationMain{
+        display: none;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem h1 {
+        text-align: left;
+        font-size: 14px;
+    }
+    .statusBadge {
+        position: absolute;
+        top: -37px;
+        right: 30px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem p {
+        font-size: 12px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser {
+        padding-left: 20px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop {
+        padding: 14px 20px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser .classPlanMainItemBottomUserContent p {
+        margin-bottom: 0px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItemSp {
+        right: 0px;
+    }
+    .classPlanMainItemBottomContent1 {
+        padding-left: 26px;
+        margin-top: 20px;
+    }
+    #project_details .project_details_top ul{
+        padding-left: 30px;
+    }
+    #project_details .project_details_top ul li a {
+        font-size: 15px;
+    }
+    #project_details .project_details_top ul li {
+        margin-right: 5px;
+    }
+    li.open_viemo img {
+        height: 30px;
+    }
+    li.pause_viemo img {
+        height: 30px;
+    }
+    li.info_show img {
+        height: 30px;
+    }
+    li.info_hide img {
+        height: 30px;
+    }
+    #project_details .project_details_top>a {
+        left: -4px;
+    }
+    #project_details .project_info_popup .project_info_popup_content {
+        padding-left: 0px;
+        margin-top: 100px;
+    }
+    #project_details .project_info_popup .project_info_popup_content p {
+        font-size: 12px;
+        line-height: 23px;
+    }
+    #project_details .project_video_popup .project_video iframe {
+        height: 300px;
+        box-shadow: 4px 4px 2px rgba(0,0,0,0.2);
+        border-radius: 5px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 {
+        font-size: 15px;
+    }
+    .project_details_main_item_top_icon img {
+        height: 50px;
+    }
+    .mdnone{
+        display: none !important;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 span {
+        font-size: 15px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 {
+        font-size: 13px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu {
+        left: -56px !important;
+        transform: translate3d(-76px, 40px, 0px);
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu ul li a {
+        padding: 7px 7px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu {
+        left: -56px !important;
+        transform: translate3d(-76px, 40px, 0px);
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu ul li a {
+        padding: 7px;
+    }
+    /*-- project detils mobile sttaus --*/
+    #projectDetilsMobileStatus.show{
+        opacity: 1;
+        visibility: visible;
+    }
+    #projectDetilsMobileStatus .projectDetilsMobileStatusContent {
+        width: 69%;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 img {
+        margin-right: 15px;
+        display: block;
+        float: left;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 img {
+        height: 50px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 {
+        font-size: 16px;
+    }
+    #chatBox {
+        bottom: 10px;
+        right: 20px;
+    }
+    #chatBox .chatBoxMain {
+        top: -404px;
+    }
+    #classRoomTop .classRoomTopContent h3 {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopRight .dropdown .dropdown-menu {
+        left: -64px !important;
+        top: -30px !important;
+        transform: translate3d(-72px, 40px, 0px);
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemRight .dropdown .dropdown-menu {
+        left: -64px !important;
+        top: -30px !important;
+        transform: translate3d(-72px, 40px, 0px);
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay {
+        padding: 20px;
+    }
+    /*-- start class room area --*/
+    #classRoomHeader .classRoomHeaderleft h3 {
+        font-size: 12px;
+    }
+    #classRoomHeader .classRoomHeaderright ul li {
+        font-size: 10px;
+        position: relative;
+        top: -5px;
+    }
+    #classRoomTop .classRoomTopContent h4 {
+        font-size: 12px;
+        margin-bottom: 4px;
+    }
+    #classRoomTop .classRoomTopContent h3 {
+        font-size: 14px;
+        margin-top: 7px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 img {
+        margin-right: 4px;
+        height: 40px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 {
+        font-size: 14px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 img {
+        margin-right: 8px;
+        height: 37px;
+        display: block;
+        float: left;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 span {
+        font-size: 13px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 {
+        padding-left: 0px;
+        font-family: fbold;
+        font-size: 11px;
+        line-height: 16px;
+    }
+    #classRoomMain {
+        overflow: hidden;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopRight .dropdown .dropdown-menu {
+        transform: translate3d(-10px, 40px, 0px);
+        left: -29px !important;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemRight .dropdown .dropdown-menu {
+        transform: translate3d(-10px, 40px, 0px);
+        left: -29px !important;
+    }
+    #learningPopUp .learningPopUpTop {
+        padding: 11px 0px;
+    }
+    #learningPopUp .learningPopUpTop .learningPopUpClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #learningPopUp .learningPopUpMainContainer {
+        padding: 10px;
+        width: 93%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem {
+        padding: 10px 10px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem h3 {
+        font-family: gbold;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem p {
+        font-size: 12px;
+        line-height: 21px;
+        margin-bottom: 17px;
+    }
+    .mhide{
+        display: none;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainContainerBottm {
+        margin-top: -0px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-prev {
+        height: 25px;
+        width: 25px;
+        line-height: 20px;
+        left: -16px;
+        background: #E3D7CF;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-next {
+        height: 25px;
+        width: 25px;
+        line-height: 20px;
+        right: -16px;
+        background: #E3D7CF;
+    }
+
+
+
+    #videoInstructionPopUp .videoInstructionPopUpTop {
+        padding: 11px 0px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpTop .videoInstructionPopUpClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo video {
+        height: 311px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay {
+        padding: 20px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay h3 {
+        font-size: 15px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay p {
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay .taskBtnNextOverlay a {
+        padding: 7px 43px;
+        font-size: 10px;
+        position: relative;
+        left: -23px;
+        top: 24px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay .taskBtnNextOverlay a img {
+        height: 28px;
+    }
+
+
+
+
+    #task2QuizPopup .task2PopupTop {
+        padding: 11px 0px;
+    }
+    #task2QuizPopup .task2PopupTop .task2popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider {
+        padding: 15px 30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem {
+        padding: 0px;
+        min-height: auto;
+        padding-bottom: 100px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemTop h4 {
+        font-size: 15px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemTop p {
+        font-size: 12px;
+        margin-top: 1px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain {
+        margin-top: 30px;
+        padding: 0px 0px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain h3 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn{
+        text-align: left !important;
+        padding-left: 30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn a {
+        padding: 10px 20px;
+        font-size: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn a img {
+        height: 25px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .sliderCount {
+        bottom: 30px;
+        right: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .owl-nav .owl-next {
+        right: -30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .owl-nav .owl-prev {
+        left: -30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz {
+        padding: 40px 0px;
+        min-height: 100%;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizHomeBtn a img {
+        height: 37px;
+        margin-bottom: 3px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizHomeBtn a {
+        padding: 13px 25px;
+        font-size: 11px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem {
+        padding: 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer {
+        border-radius: 0px;
+        box-shadow: none;
+        transition: 0.4s;
+        margin-top: 20px;
+        background: #fff;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuizNextBtn {
+        position: relative;
+        margin-top: 77px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestion ol li {
+        font-size: 13px;
+        width: 100%;
+        padding-left: 8px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer input {
+        width: 100%;
+        padding: 10px 15px;
+        border-radius: 3px;
+        font-size: 14px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuizNextBtn a {
+        padding: 12px 36px;
+        font-size: 12px;
+        border-radius: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer2 ul li .answeritem {
+        width: 83%;
+        padding: 8px 17px;
+    }
+
+
+
+
+    #task3Popup .task3PopupTop {
+        padding: 11px 0px;
+    }
+    #task3Popup .task3PopupTop .task3popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task3Popup .task3PopupMian {
+        padding: 10px;
+        background: #fff;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo {
+        padding: 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo h3 {
+        font-family: gbold;
+        font-size: 15px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo p {
+        font-size: 12px;
+    }
+    li#task3LeftvideoPreview {
+        display: block !important;
+        margin-bottom: 18px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a {
+        padding: 15px 0px;
+        width: 109px;
+        margin: 0px 5px;
+        font-size: 9px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a img {
+        height: 34px;
+    }
+    .task3LeftvideoPostar img {
+        height: 100%;
+        width: 100%;
+    }
+    #task3Popup .task3PopupMian .task3Left {
+        min-height: 76vh;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton {
+        text-align: left;
+        padding-left: 13px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton a {
+        padding: 8px 30px;
+        font-size: 10px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton a img {
+        height: 29px;
+    }
+    #task3Popup .task3PopupMian .task3Right {
+        padding: 50px 0px;
+    }
+    #task3Popup .task3PopupMian .task3Right .task3RightMainbtn button {
+        padding: 20px 32px;
+        margin: 0px 2px;
+        width: 129px;
+    }
+    button#typingMainBtn img {
+        height: 33px;
+    }
+    button#task3FileUploadMainBtn img {
+        height: 33px;
+    }
+    #task3Popup .task3PopupMian .task3Right .task3RightMainbtn button h3 {
+        margin-top: 5px;
+    }
+    #task3Popup .task3PopupMian .task3Right #typingBoxTask3 {
+        height: 350px;
+        width: 100%;
+        border-radius: 4px;
+        /* box-shadow: none; */
+        margin-top: 20px;
+    }
+    
+
+
+
+
+    #task1Popup .task1PopupTop {
+        padding: 11px 0px;
+    }
+    #task1Popup .task1PopupTop .task1popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider {
+        padding: 25px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem {
+        padding: 0px;
+        text-align: left !important;
+        padding-bottom: 136px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem h4 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3Top h3 {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3Top p {
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints {
+        padding: 30px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-prev {
+        left: -34px;
+        background: #E3FFD9;
+        z-index: 9999999999999999999999999;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-next {
+        right: -34px;
+        background: #E3FFD9;
+        z-index: 9999999999999999999999999;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box {
+        width: 138px;
+        padding: 21px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box img {
+        height: 34px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box h4 {
+        font-size: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .button_hints a {
+        width: auto;
+        margin: inherit;
+        font-size: 13px;
+        padding: 9px 0px;
+        border-radius: 7px;
+        padding: 9px 12px;
+        font-size: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .button_hints a img {
+        height: 27px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .sliderCount {
+        bottom: -55px;
+        right: 0px;
+    }
+    .button_hints {
+        margin-top: 23px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem .sliderCount {
+        right: 0px;
+    }
+    #task1Popup .task1PopupMain {
+        padding: 20px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup {
+        padding: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card {
+        width: 100%;
+        padding: 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintBoxPopupTop h4 {
+        font-size: 15px;
+        padding-left: 33px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintBoxPopupClose {
+        top: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: auto;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body {
+        padding-bottom: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer .videoPostar .hintsvideoPlay img {
+        height: 57px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-header button:after {
+        height: 29px;
+        top: 4px;
+        right: 14px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption {
+        padding: 50px 0px;
+        background: transparent;
+        top: 188px;
+        position: relative;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea {
+        border-radius: 0px;
+        box-shadow: none;
+        margin-top: 30px;
+        position: absolute;
+        top: -370px;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        z-index: -1;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea.zindex{
+        z-index: 1;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption #start {
+        padding: 16px 26px;
+        border-radius: 10px;
+        margin: 0px 8px;
+        background: #fff;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption .UploadBtn{
+        padding: 16px 26px;
+        border-radius: 10px;
+        margin: 0px 8px;
+        background: #fff;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption #start h3 {
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption .UploadBtn h3 {
+        font-size: 12px;
+    }
+    #my_camera{
+        display: none;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop #gum {
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #recordVideobtnACtion {
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload {
+        padding: 20px;
+        text-align: center;
+        overflow-y: scroll;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a {
+        display: inline-block;
+        padding: 18px 14px;
+        margin: 20px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a p {
+        font-size: 12px;
+        margin-top: 1px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer h4#SnapShotResult2 img {
+        height: 200px;
+        width: 200px;
+        margin-bottom: 10px;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison {
+        bottom: 124px;
+        padding: 15px 0px;
+        margin: 0px 0px;
+        width: 54%;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison p {
+        font-size: 12px;
+        margin-top: 2px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview {
+        padding: 20px;
+        text-align: center;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer h4#SnapShotResult3 img {
+        height: 300px;
+        width: 300px;
+        margin-bottom: 12px;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer p {
+        margin-top: 13px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit {
+        border-radius: 0px !important;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent {
+        padding: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent h3 {
+        font-size: 15px;
+    }
+    .recordVideoSubmitContentInfo {
+        margin-top: 8px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent .recordVideoSubmitContentButton ul li a {
+        padding: 15px 30px;
+        margin: 0px 4px;
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent .recordVideoSubmitContentButton ul li a img {
+        margin-bottom: 6px;
+        height: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 13px;
+        content: "Chose Your File And Upload";
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:before {
+        display: none;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload {
+        height: 80vh;
+        width: 100%;
+        background: #fff;
+        border-radius: 0px;
+        margin-top: 10px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        display: none;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 13px;
+        content: "Chose Your File And Upload";
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 {
+        padding: 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintBoxPopupTop h4 {
+        font-size: 15px;
+        padding-left: 23px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card {
+        padding: 0px;
+        width: 100%;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: auto;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer .videoPostar .hintsvideoPlay3 img {
+        height: 57px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body {
+        padding-bottom: 38px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-header button:after {
+        height: 29px;
+        top: 5px;
+        right: 12px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card.disabled .card-header {
+        padding: 2px 0px;
+    }
+    .videoPostar > img {
+        width: 100%;
+        height: 100%;
+    }
+    .tpl15{
+        padding-left: 15px !important;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    /*-- start class plan mobile design --*/
+    #headerTop{
+        display: none;
+    }
+    #paginationMain{
+        display: none;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    .mpl0{
+        padding-left: 0px !important;
+    }
+    .mpr0{
+        padding-right: 0px !important;
+    }
+    #classPlanMain{
+        overflow: hidden;
+    }
+    .classPlanMainItemTopItem.text-center {
+        text-align: left !important;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem h1 {
+        font-size: 14px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItem p {
+        font-size: 12px;
+        margin-top: 8px;
+    }
+    .classPlanMainItemTop{
+        position: relative;
+    }
+    .classPlanMainItemTopItem .statusBadge{
+        position: absolute;
+        top: -56px;
+        right: 30px;
+        text-align: center;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop .classPlanMainItemTopItemSp {
+        right: 0px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemTop {
+        padding: 20px 10px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser {
+        padding-left: 15px;
+    }
+    .classPlanMainItemBottomUserImage.text-right {
+        text-align: left !important;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser .classPlanMainItemBottomUserContent p {
+        font-size: 8px;
+        margin-bottom: 3px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomUser .classPlanMainItemBottomUserContent h5 {
+        font-size: 12px;
+    }
+    .classPlanMainItemBottomContent1 {
+        padding-left: 15px;
+        margin-top: 20px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomContent1 h5 {
+        font-size: 12px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomContent1 p {
+        margin-bottom: 4px;
+    }
+    .classPlanMainItemBottom{
+        position: relative;
+    }
+    .classPlanMainItemBottomLink {
+        position: absolute;
+        top: -97px;
+        right: 36px;
+    }
+    .classPlanMainItemBottomLink_2{
+        top: -107px;
+    }
+    #classPlanMain .classPlanMainItem .classPlanMainItemBottom .classPlanMainItemBottomLink a.comon2 {
+        font-size: 10px;
+        padding: 11px 22px;
+    }
+    /*-- strat gallery page responsive --*/
+    #galleryFilter{
+        padding: 15px 0px;
+    }
+    .galleryFilterSearch {
+        display: none;
+    }
+    #galleryFilter .galleryFilter_label {
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+    .galleryFilterToggleMobile{
+        display: block;
+    }
+    .galleryMainItemImage img {
+        height: 100%;
+    }
+    #galleryPopup {
+        background: rgba(93, 93, 93, 0.767);
+        z-index: 999999999;
+    }
+    .galleryPopupSliderItemInfo{
+        display: none;
+    }
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-prev {
+        left: 10px;
+    }
+    #galleryPopup .galleryPopupSlider .owl-nav .owl-next {
+        right: 10px;
+    }
+    .galleryPopUpClose{
+        display: none;
+    }
+    .galleypopUpMobileClose{
+        display: block;
+    }
+    /*-- start project page responsive --*/
+    #project_main .project_main_item {
+        margin: 0 auto;
+        margin-bottom: 30px;
+        width: 81%;
+        padding-top: 20px;
+    }
+    #project_main .project_main_item img {
+        margin-bottom: 0px;
+    }
+    /*-- start project details responsive --*/
+    #project_details .project_details_top ul li {
+        margin-right: 5px;
+    }
+    li.open_viemo img {
+        height: 30px;
+    }
+    li.pause_viemo img {
+        height: 30px;
+    }
+    li.info_show img {
+        height: 30px;
+    }
+    li.info_hide img {
+        height: 30px;
+    }
+    #project_details .project_details_top ul li a {
+        font-size: 15px;
+    }
+    #project_details .project_details_top {
+        padding-left: 33px;
+    }
+    #project_details .project_details_top>a {
+        position: absolute;
+        left: 0px;
+        top: 47%;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 span {
+        font-family: fbook;
+        font-size: 11px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_top_info h3 {
+        font-size: 11px;
+        font-family: fbold;
+    }
+    button#dropdownMenu2 img {
+        height: 16px;
+        padding-right: 7px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu {
+        padding: 0px;
+        left: -31px !important;
+        transform: translate3d(-125px, 40px, 0px);
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_top .project_details_main_item_dropdown .dropdown .dropdown-menu ul li a {
+        font-size: 12px;
+        padding: 6px 8px;
+    }
+    .project_details_main_item_item_info {
+        display: none;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 {
+        font-family: fbook;
+        font-size: 11px;
+        line-height: 16px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_text h3 span {
+        font-family: fbold;
+        margin-right: 7px;
+        font-size: 12px;
+    }
+    .mdnone{
+        display: none;
+    }
+    .project_details_main_item_item_menu.project_details_main_item_item_menu_2.text-right button img {
+        position: relative;
+        right: 2px;
+    }
+    #project_details {
+        padding-bottom: 0px;
+        overflow: hidden;
+    }
+    #project_details .project_video_popup .project_video iframe {
+        width: 100%;
+        height: 288px;
+        box-shadow: 4px 5px 1px rgba(0,0,0,0.2);
+    }
+    #project_details .project_info_popup .project_info_popup_content {
+        margin-top: 98px;
+        padding-left: 0px;
+    }
+    #project_details .project_info_popup .project_info_popup_content p {
+        font-size: 12px;
+        margin-bottom: 20px;
+        line-height: 23px;
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu {
+        left: -31px !important;
+        transform: translate3d(-125px, 40px, 0px);
+    }
+    #project_details .project_details_main_container .project_details_main_item .project_details_main_item_item .project_details_main_item_item_menu .dropdown .dropdown-menu ul li a {
+        font-size: 12px;
+        padding: 6px 8px;
+        color: #333333;
+    }
+    /*-- project detils mobile sttaus --*/
+    #projectDetilsMobileStatus.show{
+        opacity: 1;
+        visibility: visible;
+    }
+    /*-- profile page responsive --*/
+    .profileTopInfo_left {
+        text-align: center;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left .profileShape {
+        left: 78px;
+        z-index: 1;
+        height: 140px;
+        width: 140px;
+        top: -3px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left form {
+        bottom: -17px;
+        padding-right: 74px;
+    }
+    .profileTopInfo_rightTop {
+        text-align: center;
+        margin-top: 17px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right {
+        position: relative;
+        right: 0px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_left .prevImage {
+        height: 130px;
+        width: 130px;
+    }
+    #MobileLinkProfile{
+        display: inline-block;
+    }
+    #profileMain .profileContainer .profileTop h4 {
+        font-size: 14px;
+    }
+    #MobileLinkProfile img {
+        height: 11px;
+        margin-right: 10px;
+        margin-top: -3px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightTop h3 {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .profileDisipline{
+        display: none;
+    }
+    .mpl15{
+        padding-left: 15px !important;
+    }
+    .mpr15{
+        padding-right: 15px !important;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightItem {
+        margin-bottom: 15px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right .profileTopInfo_rightItem h4 {
+        font-size: 10px;
+    }
+    .profileTopInfo_rightItem_2 img{
+        height: 25px;
+    }
+    .profileTopInfo_rightItem_3 img{
+        height: 25px;
+    }
+    .profileTopInfo_rightItem_4 {
+        margin-top: 3px;
+    }
+    .profileTopInfo_rightItem_4 img{
+        height: 20px;
+    }
+    #profileMain {
+        padding: 20px 0px;
+    }
+    #profileMain .profileContainer .profileTopInfo .profileTopInfo_right:after {
+        display: none;
+    }
+    #profileMain .profileBottom .profileBottomLeft {
+        padding: 15px;
+    }
+    #profileMain .profileBottom .profileBottomLeft .program {
+        margin-top: 30px;
+    }
+    #profileMain .profileBottom .profileBottomRight {
+        margin-top: 30px;
+        padding: 15px;
+    }
+    #profileMain .profileBottom .profileBottomRight .badgeProfile .badge_item h4 {
+        font-size: 9px;
+        line-height: 9px;
+        width: 52px;
+    }
+    .profileDisiplineMobile{
+        display: block;
+    }
+    #profileMain .profileBottom .profileBottomRight .badgeProfile h3 {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    #profileMain .profileBottom .profileBottomRight .skillProfile h3 {
+        font-size: 14px;
+        margin-bottom: 18px;
+    }
+    #profileMain .profileBottom .profileBottomRight .skillProfile ul li {
+        font-size: 12px;
+    }
+    #profileMain .profileBottom .profileBottomRight .profileCertificate h3 {
+        font-size: 14px;
+    }
+    #profileMain .profileBottom .profileBottomRight .profileCertificate .profileCertificateSlider .profileCertificateSlideritem img {
+        margin: 0 auto;
+    }
+    #profileMain .profileBottom .profileBottomRight .profileCertificate .profileCertificateSlider .owl-nav .owl-prev {
+        bottom: 12px;
+        left: -17px;
+    }
+    #profileMain .profileBottom .profileBottomRight .profileCertificate .profileCertificateSlider .owl-nav .owl-next {
+        bottom: 12px;
+        right: -17px;
+    }
+    /*-- start class room page responsive --*/
+    #classRoomHeader .classRoomHeaderleft h3 {
+        font-size: 12px;
+    }
+    #classRoomHeader .classRoomHeaderright ul li {
+        font-size: 10px;
+        position: relative;
+        top: -5px;
+    }
+    #classRoomTop .classRoomTopContent h4 {
+        font-size: 12px;
+        margin-bottom: 4px;
+    }
+    #classRoomTop .classRoomTopContent h3 {
+        font-size: 14px;
+        margin-top: 7px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 img {
+        margin-right: 4px;
+        height: 40px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopLeft h2 {
+        font-size: 14px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 img {
+        margin-right: 8px;
+        height: 37px;
+        display: block;
+        float: left;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 span {
+        font-size: 11px;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemLeft h4 {
+        padding-left: 0px;
+        font-family: fbold;
+        font-size: 11px;
+        line-height: 16px;
+    }
+    #chatBox .chatBoxMain {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #fff;
+    }
+    #classRoomMain {
+        overflow: hidden;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemTop .classRoomMainItemTopRight .dropdown .dropdown-menu {
+        transform: translate3d(-10px, 40px, 0px);
+        left: -29px !important;
+    }
+    #classRoomMain .classRoomMainItem .classRoomMainItemItem .classRoomMainItemItemRight .dropdown .dropdown-menu {
+        transform: translate3d(-10px, 40px, 0px);
+        left: -29px !important;
+    }
+    #chatBox {
+        bottom: 6px;
+        right: 6px;
+    }
+    #learningPopUp .learningPopUpTop {
+        padding: 11px 0px;
+    }
+    #learningPopUp .learningPopUpTop .learningPopUpClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #learningPopUp .learningPopUpMainContainer {
+        padding: 10px;
+        width: 93%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem {
+        padding: 10px 10px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem h3 {
+        font-family: gbold;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .learningPopUpMainSliderItem p {
+        font-size: 12px;
+        line-height: 21px;
+        margin-bottom: 17px;
+    }
+    .mhide{
+        display: none;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainContainerBottm {
+        margin-top: -0px;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-prev {
+        height: 25px;
+        width: 25px;
+        line-height: 20px;
+        left: -16px;
+        background: #E3D7CF;
+    }
+    #learningPopUp .learningPopUpMainContainer .learningPopUpMainSlider .owl-nav .owl-next {
+        height: 25px;
+        width: 25px;
+        line-height: 20px;
+        right: -16px;
+        background: #E3D7CF;
+    }
+
+
+
+    #videoInstructionPopUp .videoInstructionPopUpTop {
+        padding: 11px 0px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpTop .videoInstructionPopUpClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo {
+        width: 97%;
+        margin: 0 auto;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo video {
+        height: 311px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay {
+        padding: 20px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay h3 {
+        font-size: 15px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay p {
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay .taskBtnNextOverlay a {
+        padding: 7px 43px;
+        font-size: 10px;
+        position: relative;
+        left: -23px;
+        top: 24px;
+    }
+    #videoInstructionPopUp .videoInstructionPopUpMain .videoInstructionPopUpMainVideo .videoInstructionPopUpMainVideoOverlay .taskBtnNextOverlay a img {
+        height: 28px;
+    }
+
+
+
+
+    #task2QuizPopup .task2PopupTop {
+        padding: 11px 0px;
+    }
+    #task2QuizPopup .task2PopupTop .task2popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider {
+        padding: 15px 30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem {
+        padding: 0px;
+        min-height: auto;
+        padding-bottom: 100px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemTop h4 {
+        font-size: 15px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemTop p {
+        font-size: 12px;
+        margin-top: 1px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain {
+        margin-top: 30px;
+        padding: 0px 0px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .task2PopupMainSliderItemMain h3 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn{
+        text-align: left !important;
+        padding-left: 30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn a {
+        padding: 10px 20px;
+        font-size: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderTaskBtn a img {
+        height: 25px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .task2PopupMainSliderItem .sliderCount {
+        bottom: 30px;
+        right: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .owl-nav .owl-next {
+        right: -30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainSlider .task2PopupMainSliderActive .owl-nav .owl-prev {
+        left: -30px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz {
+        padding: 40px 0px;
+        min-height: 100%;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizHomeBtn a img {
+        height: 37px;
+        margin-bottom: 3px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizHomeBtn a {
+        padding: 13px 25px;
+        font-size: 11px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem {
+        padding: 20px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer {
+        border-radius: 0px;
+        box-shadow: none;
+        transition: 0.4s;
+        margin-top: 20px;
+        background: #fff;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuizNextBtn {
+        position: relative;
+        margin-top: 90px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestion ol li {
+        font-size: 13px;
+        width: 100%;
+        padding-left: 8px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer input {
+        width: 100%;
+        padding: 10px 15px;
+        border-radius: 3px;
+        font-size: 14px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuizNextBtn a {
+        padding: 12px 36px;
+        font-size: 12px;
+        border-radius: 10px;
+    }
+    #task2QuizPopup .task2PopupMain .task2PopupMainQuiz .task2PopupMainQuizMainContainer .task2PopupMainQuizItem .task2PopupMainQuizItemQuestionAnswer2 ul li .answeritem {
+        width: 83%;
+        padding: 8px 17px;
+    }
+
+
+
+
+    #task3Popup .task3PopupTop {
+        padding: 11px 0px;
+    }
+    #task3Popup .task3PopupTop .task3popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task3Popup .task3PopupMian {
+        padding: 10px;
+        background: #fff;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo {
+        padding: 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo h3 {
+        font-family: gbold;
+        font-size: 15px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo p {
+        font-size: 12px;
+    }
+    li#task3LeftvideoPreview {
+        display: block !important;
+        margin-bottom: 18px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a {
+        padding: 15px 0px;
+        width: 109px;
+        margin: 0px 5px;
+        font-size: 9px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoTrigerOption ul li a img {
+        height: 34px;
+    }
+    .task3LeftvideoPostar img {
+        height: 100%;
+    }
+    #task3Popup .task3PopupMian .task3Left {
+        min-height: 76vh;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton {
+        text-align: left;
+        padding-left: 13px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton a {
+        padding: 8px 30px;
+        font-size: 10px;
+    }
+    #task3Popup .task3PopupMian .task3Left .task3Leftvideo .task3LeftvideoInfo .task3LeftvideoInfoButton a img {
+        height: 29px;
+    }
+    #task3Popup .task3PopupMian .task3Right {
+        padding: 50px 0px;
+    }
+    #task3Popup .task3PopupMian .task3Right .task3RightMainbtn button {
+        padding: 20px 32px;
+        margin: 0px 2px;
+        width: 129px;
+    }
+    button#typingMainBtn img {
+        height: 33px;
+    }
+    button#task3FileUploadMainBtn img {
+        height: 33px;
+    }
+    #task3Popup .task3PopupMian .task3Right .task3RightMainbtn button h3 {
+        margin-top: 5px;
+    }
+    #task3Popup .task3PopupMian .task3Right #typingBoxTask3 {
+        height: 350px;
+        width: 100%;
+        border-radius: 4px;
+        /* box-shadow: none; */
+        margin-top: 20px;
+    }
+    
+
+
+
+
+    #task1Popup .task1PopupTop {
+        padding: 11px 0px;
+    }
+    #task1Popup .task1PopupTop .task1popupClose {
+        height: 24px;
+        width: 24px;
+        line-height: 21px;
+        margin-right: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider {
+        padding: 25px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem {
+        padding: 0px;
+        text-align: left !important;
+        padding-bottom: 136px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem h4 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3Top h3 {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3Top p {
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints {
+        padding: 30px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-prev {
+        left: -34px;
+        background: #E3FFD9;
+        z-index: 9999999999999999999999999;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .owl-nav .owl-next {
+        right: -34px;
+        background: #E3FFD9;
+        z-index: 9999999999999999999999999;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box {
+        width: 138px;
+        padding: 21px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box img {
+        height: 34px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .box h4 {
+        font-size: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .button_hints a {
+        width: auto;
+        margin: inherit;
+        font-size: 13px;
+        padding: 9px 0px;
+        border-radius: 7px;
+        padding: 9px 12px;
+        font-size: 11px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .button_hints a img {
+        height: 27px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem3 .task1PopupMainSliderItem3hints .sliderCount {
+        bottom: -55px;
+        right: 0px;
+    }
+    .button_hints {
+        margin-top: 23px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .task1PopupMainSliderActive .task1PopupMainSliderItem .sliderCount {
+        right: 0px;
+    }
+    #task1Popup .task1PopupMain {
+        padding: 20px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup {
+        padding: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card {
+        width: 104%;
+        padding: 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintBoxPopupTop h4 {
+        font-size: 15px;
+        padding-left: 33px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintBoxPopupClose {
+        top: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: auto;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body {
+        padding-bottom: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-body .hintsvideoContainer .videoPostar .hintsvideoPlay img {
+        height: 43px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainSlider .hintBoxPopup .hintboxContent .accordion .card-header button:after {
+        height: 29px;
+        top: 4px;
+        right: 14px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption {
+        padding: 50px 0px;
+        background: transparent;
+        top: 188px;
+        position: relative;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea {
+        border-radius: 0px;
+        box-shadow: none;
+        margin-top: 30px;
+        position: absolute;
+        top: -397px;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        z-index: -1;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea.zindex{
+        z-index: 1;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption #start {
+        padding: 16px 26px;
+        border-radius: 10px;
+        margin: 0px 8px;
+        background: #fff;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption .UploadBtn{
+        padding: 16px 26px;
+        border-radius: 10px;
+        margin: 0px 8px;
+        background: #fff;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption #start h3 {
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea .task1PopupMainOption .UploadBtn h3 {
+        font-size: 12px;
+    }
+    #my_camera{
+        display: none;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain .videoCapterMainTop #gum {
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #recordVideobtnACtion {
+        background: #000;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload {
+        padding: 20px;
+        text-align: center;
+        overflow-y: scroll;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a {
+        display: inline-block;
+        padding: 18px 14px;
+        margin: 20px 0px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer a p {
+        font-size: 12px;
+        margin-top: 1px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload .snapShotUploadContainer h4#SnapShotResult2 img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison {
+        bottom: 50px;
+        padding: 15px 0px;
+        margin: 0px 0px;
+        width: 100%;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUpload button.submitRevison p {
+        font-size: 12px;
+        margin-top: 2px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview {
+        padding: 20px;
+        text-align: center;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer h4#SnapShotResult3 img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #videoCapterMain #snapShotUploadview .snapShotUploadContainer p {
+        margin-top: 13px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit {
+        border-radius: 0px !important;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent {
+        padding: 20px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent h3 {
+        font-size: 15px;
+    }
+    .recordVideoSubmitContentInfo {
+        margin-top: 8px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent .recordVideoSubmitContentButton ul li a {
+        padding: 15px 30px;
+        margin: 0px 4px;
+        font-size: 12px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #recordVideoSubmit .recordVideoSubmitContent .recordVideoSubmitContentButton ul li a img {
+        margin-bottom: 6px;
+        height: 30px;
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 13px;
+        content: "Chose Your File And Upload";
+    }
+    #task1Popup .task1PopupMain .task1PopupMainVideoArea #task1FileUpload .task1QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:before {
+        display: none;
+    }
+    #chatBox .chatBoxMain .chatBoxSend {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+    }
+    #chatBox .chatBoxMain .chatBoxMainBox {
+        max-height: 80%;
+    }
+    #chatBox .chatBoxMain .chatBoxMainTop {
+        border-radius: 0px;
+    }
+    #chatBoxMobileClose{
+        display: block;
+        position: absolute;
+        top: 7px;
+        right: 15px;
+        background: #fff;
+        height: 25px;
+        width: 25px;
+        text-align: center;
+        line-height: 25px;
+        border-radius: 4px;
+        font-size: 13px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload {
+        height: 80vh;
+        width: 100%;
+        background: #fff;
+        border-radius: 0px;
+        margin-top: 10px;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone::before {
+        display: none;
+    }
+    #task3Popup .task3PopupMian .task3Right #task3FileUpload .task3QuestionUploadContent .ff_fileupload_wrap .ff_fileupload_dropzone:after {
+        font-size: 13px;
+        content: "Chose Your File And Upload";
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 {
+        padding: 20px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintBoxPopupTop h4 {
+        font-size: 15px;
+        padding-left: 23px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card {
+        padding: 0px;
+        width: 107%;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer video {
+        height: auto;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body .hintsvideoContainer .videoPostar .hintsvideoPlay3 img {
+        height: 42px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-body {
+        padding-bottom: 38px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card-header button:after {
+        height: 29px;
+        top: 5px;
+        right: 12px;
+    }
+    #task3Popup .task3PopupMian .task3Left .hintBoxPopup3 .hintboxContent .accordion .card.disabled .card-header {
+        padding: 2px 0px;
+    }
+    #mobileHeaderMenu{
+        display: block;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

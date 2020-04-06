@@ -1,0 +1,409 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+   <meta charset="utf-8">
+   <title>RealSchool-LMS || Student</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="apple-touch-icon" href="asset/img/favicon.png">
+   <link rel="icon" href="asset/img/favicon.png">
+   <link rel="stylesheet" href="asset/css/bootstrap.min.css">
+   <link rel="stylesheet" href="asset/css/fontawsome.css">
+   <link rel="stylesheet" href="asset/css/animate.css">
+   <link rel="stylesheet" href="asset/css/nice-select.css">
+   <link rel="stylesheet" href="asset/css/owl.carousel.min.css">
+   <link rel="stylesheet" href="asset/css/style.css">
+   <link rel="stylesheet" href="asset/css/custom.css">
+   <link rel="stylesheet" href="asset/css/responsive.css">
+   <!-- this is for mordanizar js link -->
+   <script src="asset/js/vendor/modernizr-3.6.0.min.js"></script>
+</head>
+
+<body>
+   <header id="headerTop">
+      <div class="container">
+         <div class="row">
+            <div class="col-xl-1 col-lg-1 col-md-1">
+               <div class="headerTopToggle">
+                  <span><img class="img-fluid" src="asset/img/icon/bar.png" alt=""></span>
+               </div>
+            </div>
+            <div class="col-xl-9 col-lg-9 col-md-8">
+               <div class="headerTopMenu text-center">
+                  <div class="row">
+                     <div class="col-xl-4 col-lg-4 col-md-4">
+                        <div class="headerTopMenuItem text-center">
+                           <a class="active" href="class_plan.html">CLASS PLAN</a>
+                        </div>
+                     </div>
+                     <div class="col-xl-4 col-lg-4 col-md-4">
+                        <div class="headerTopMenuItem text-center">
+                           <a href="project.html">PROJECTS</a>
+                        </div>
+                     </div>
+                     <div class="col-xl-4 col-lg-4 col-md-4">
+                        <div class="headerTopMenuItem text-center">
+                           <a href="index.html">GALLERY</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-3">
+               <div class="headerTopUser">
+                  <div class="row align-items-center">
+                     <div class="col-xl-5 col-lg-5 col-md-5">
+                        <div class="headerTopUserImage">
+                           <img class="img-fluid" src="asset/img/images/user.png" alt="">
+                        </div>
+                     </div>
+                     <div class="col-xl-7 col-lg-7 col-md-7">
+                        <div class="headerTopUserInfo">
+                           <h4>102 pts</h4>
+                           <a href="profile.html">VIEW PROFILE</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </header>
+   <!-- end header top -->
+   <!-- start mobile header -->
+   <section id="mobileHeader">
+      <div class="container">
+         <div class="row align-items-center">
+            <div class="col-2">
+               <div class="mobileHeaderToggle">
+                  <span><img class="img-fluid" src="asset/img/icon/bar.png" alt=""></span>
+               </div>
+            </div>
+            <div class="col-10">
+               <div class="mobileHeaderProfile">
+                  <div class="row align-items-center">
+                     <div class="col-5">
+                        <div class="mobileHeaderProfileImage">
+                           <img class="img-fluid" src="asset/img/images/user.png" alt="">
+                        </div>
+                     </div>
+                     <div class="col-7">
+                        <div class="mobileHeaderProfileInfo">
+                           <h4><img src="asset/img/icon/reting-1.png" alt=""> 102 pts</h4>
+                           <a href="profile.html">VIEW PROFILE</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- end mobile header -->
+   <section id="profileMain">
+      <div class="container">
+         <div class="row">
+            <div class="col-xl-10 col-lg-11 col-md-12 mx-auto">
+               <div class="profileContainer">
+                  <div class="profileTop">
+                     <h4><a id="MobileLinkProfile" href="#"><img src="asset/img/icon/arrow-1.png" alt=""></a> MY PROFILE
+                     </h4>
+                  </div>
+                  <div class="profileTopInfo">
+                     <div class="row align-items-center">
+                        <div class="col-xl-3 col-lg-3 col-md-3 pr0 mpr15">
+                           <div class="profileTopInfo_left">
+                              <img class="profileShape" src="asset/img/images/profile_shape.png" alt="">
+                              <img id="UserImage" class="img-fluid prevImage" src="asset/img/images/profile.png" alt="">
+                              <form>
+                                 <input onchange="preview_image(event)" type="file" name="image" id="Profile">
+                                 <label for="Profile"><img src="asset/img/icon/camera.png" alt=""></label>
+                              </form>
+                           </div>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9 mpl15 pl0 pl15">
+                           <div class="profileTopInfo_right">
+                              <div class="profileTopInfo_rightTop">
+                                 <h3>Advika Prabhu</h3>
+                              </div>
+                              <div class="row">
+                                 <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                                    <div class="profileTopInfo_rightItem profileTopInfo_rightItem_1">
+                                       <h4><img src="asset/img/icon/badge_2.png" alt=""> 07 Badges</h4>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                                    <div class="profileTopInfo_rightItem profileTopInfo_rightItem_2">
+                                       <h4><img src="asset/img/icon/dairy.png" alt=""> 04 Disciplines</h4>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                                    <div class="profileTopInfo_rightItem profileTopInfo_rightItem_3">
+                                       <h4><img src="asset/img/icon/settings.png" alt=""> 03 Skills</h4>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                                    <div class="profileTopInfo_rightItem profileTopInfo_rightItem_4">
+                                       <h4><img src="asset/img/icon/certificate.png" alt=""> 04 Certificates</h4>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="profileBottom">
+                  <div class="row">
+                     <div class="col-xl-5 col-lg-5 col-md-5">
+                        <div class="profileBottomLeft">
+                           <div class="about">
+                              <h4>ABOUT <img class="img-fluid" src="asset/img/icon/edit.png" alt=""></h4>
+                              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh amet
+                                 euismod tincidunt ut laorued dolore magna aliquam erat volut. <a href="#">READ MORE</a>
+                              </p>
+                           </div>
+                           <div class="program">
+                              <h3>ENROLLED PROGRAM(S)</h3>
+                              <h4>Communication Bootcamp</h4>
+                              <p>Real School Masterclass</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-6 col-lg-6 col-md-7 mx-auto pr0 mpr15">
+                        <div class="profileBottomRight">
+                           <div class="badgeProfile">
+                              <h3>BADGES</h3>
+                              <div class="row">
+                                 <div class="col-xl-11 col-lg-12">
+                                    <div class="row">
+                                       <div class="col-xl-3 col-lg-3 col-md-3 col-3">
+                                          <div class="badge_item text-center">
+                                             <img class="img-fluid" src="asset/img/badge/1.png" alt="">
+                                             <h4>Punctual</h4>
+                                          </div>
+                                       </div>
+                                       <div class="col-xl-3 col-lg-3 col-md-3 col-3">
+                                          <div class="badge_item text-center">
+                                             <img class="img-fluid" src="asset/img/badge/2.png" alt="">
+                                             <h4>Great Work</h4>
+                                          </div>
+                                       </div>
+                                       <div class="col-xl-3 col-lg-3 col-md-3 col-3">
+                                          <div class="badge_item text-center">
+                                             <img class="img-fluid" src="asset/img/badge/3.png" alt="">
+                                             <h4>On-time <br>Submission</h4>
+                                          </div>
+                                       </div>
+                                       <div class="col-xl-3 col-lg-3 col-md-3 col-3">
+                                          <div class="badge_item text-center">
+                                             <img class="img-fluid" src="asset/img/badge/4.png" alt="">
+                                             <h4>Completed<br>Activity</h4>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="profileDisipline">
+                              <h3>DISCIPLINES</h3>
+                              <div class="row">
+                                 <div class="col-xl-4 col-lg-4 col-md-4">
+                                    <div class="profileDisiplineLeft">
+                                       <ul>
+                                          <li style="background-color: #B6EFFF;"></li>
+                                          <li style="background-color: #F2B9FF;"></li>
+                                          <li style="background-color: #FFB52E;"></li>
+                                          <li style="background-color: #B6E68B;"></li>
+                                       </ul>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-8 col-lg-8 col-md-8">
+                                    <div class="profileDisiplineright">
+                                       <div class="profileDisiplinerightItem">
+                                          <p>CURRENT LEVEL: <span>INTERMEDIATE</span></p>
+                                          <ul>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill"
+                                                   style="width: 60%; border-radius: 30px 0px 0px 30px;"></span></li>
+                                             <li></li>
+                                             <li></li>
+                                          </ul>
+                                       </div>
+                                       <div class="profileDisiplinerightItem">
+                                          <p>CURRENT LEVEL: <span>NOVICE</span></p>
+                                          <ul>
+                                             <li><span class="fill"
+                                                   style="width: 50%; border-radius: 30px 0px 0px 30px;"></span></li>
+                                             <li></li>
+                                             <li></li>
+                                             <li></li>
+                                          </ul>
+                                       </div>
+                                       <div class="profileDisiplinerightItem">
+                                          <p>CURRENT LEVEL: <span>ADVANCED</span></p>
+                                          <ul>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill"
+                                                   style="width: 20%; border-radius: 30px 0px 0px 30px;"></span></li>
+                                             <li></li>
+                                          </ul>
+                                       </div>
+                                       <div class="profileDisiplinerightItem">
+                                          <p>CURRENT LEVEL: <span>EXPERT</span></p>
+                                          <ul>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill" style="width: 100%;"></span></li>
+                                             <li><span class="fill"
+                                                   style="width: 40%; border-radius: 30px 0px 0px 30px;"></span></li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="profileDisiplineMobile">
+                              <h3>DISCIPLINES</h3>
+                              <div class="profileDisiplineMobileItem">
+                                 <div class="profileDisiplineMobileItemTop">
+                                    <span style="background: #B6EFFF;"></span>
+                                 </div>
+                                 <div class="profileDisiplineMobileItemBottom">
+                                    <p>CURRENT LEVEL: <span>INTERMEDIATE</span></p>
+                                    <ul>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill"
+                                             style="width: 65%; border-radius: 30px 0px 0px 30px;"></span>
+                                       </li>
+                                       <li></li>
+                                       <li></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="profileDisiplineMobileItem">
+                                 <div class="profileDisiplineMobileItemTop">
+                                    <span style="background: #F2B9FF;"></span>
+                                 </div>
+                                 <div class="profileDisiplineMobileItemBottom">
+                                    <p>CURRENT LEVEL: <span>NOVICE</span></p>
+                                    <ul>
+                                       <li>
+                                          <span class="MobileBadgeFill"
+                                             style="width: 50%; border-radius: 30px 0px 0px 30px;"></span>
+                                       </li>
+                                       <li></li>
+                                       <li></li>
+                                       <li></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="profileDisiplineMobileItem">
+                                 <div class="profileDisiplineMobileItemTop">
+                                    <span style="background: #FFB52E;"></span>
+                                 </div>
+                                 <div class="profileDisiplineMobileItemBottom">
+                                    <p>CURRENT LEVEL: <span>ADVANCED</span></p>
+                                    <ul>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill"
+                                             style="width: 50%; border-radius: 30px 0px 0px 30px;"></span>
+                                       </li>
+                                       <li></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                              <div class="profileDisiplineMobileItem">
+                                 <div class="profileDisiplineMobileItemTop">
+                                    <span style="background: #B6E68B;"></span>
+                                 </div>
+                                 <div class="profileDisiplineMobileItemBottom">
+                                    <p>CURRENT LEVEL: <span>EXPERT</span></p>
+                                    <ul>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill" style="width: 100%;"></span>
+                                       </li>
+                                       <li>
+                                          <span class="MobileBadgeFill"
+                                             style="width: 50%; border-radius: 30px 0px 0px 30px;"></span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="skillProfile">
+                              <h3>SKILLS</h3>
+                              <ul>
+                                 <li><img class="img-fluid" src="asset/img/badge/5.png" alt=""> COMMUNICATION</li>
+                                 <li><img class="img-fluid" src="asset/img/badge/6.png" alt=""> DESIGN THINKING</li>
+                                 <li><img class="img-fluid" src="asset/img/badge/2.png" alt=""> DEXTERITY</li>
+                              </ul>
+                           </div>
+                           <div class="profileCertificate">
+                              <h3>CERTIFICATES</h3>
+                              <div class="profileCertificateSlider owl-carousel">
+                                 <div class="profileCertificateSlideritem text-center">
+                                    <img class="img-fluid" src="asset/img/images/certificate.png" alt="">
+                                    <p>01 of 04</p>
+                                 </div>
+                                 <div class="profileCertificateSlideritem text-center">
+                                    <img class="img-fluid" src="asset/img/images/certificate.png" alt="">
+                                    <p>02 of 04</p>
+                                 </div>
+                                 <div class="profileCertificateSlideritem text-center">
+                                    <img class="img-fluid" src="asset/img/images/certificate.png" alt="">
+                                    <p>03 of 04</p>
+                                 </div>
+                                 <div class="profileCertificateSlideritem text-center">
+                                    <img class="img-fluid" src="asset/img/images/certificate.png" alt="">
+                                    <p>04 of 04</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- all javascript load here -->
+   <script src="asset/js/vendor/jquery-3.3.1.min.js"></script>
+   <script src="asset/js/bootstrap.bundle.min.js"></script>
+   <script src="asset/js/owl.carousel.min.js"></script>
+   <script src="asset/js/jquery.nice-select.min.js"></script>
+   <script src="asset/js/wow.min.js"></script>
+   <script src="asset/js/date-time-picker.min.js"></script>
+   <script src="asset/js/froogaloop2.min.js"></script>
+   <script src="asset/js/custom.js"></script>
+   <script>
+      function preview_image(event) {
+         var reader = new FileReader();
+         reader.onload = function () {
+            var output = document.getElementById('UserImage');
+            output.src = reader.result;
+         }
+         reader.readAsDataURL(event.target.files[0]);
+      }
+   </script>
+</body>
+
+</html>
